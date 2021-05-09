@@ -70,7 +70,6 @@ V100 models
 
 T4 models
 - GTA5 to Cityscapes: [G_gtav_at_warmup_t4.pth](https://drive.google.com/file/d/1J6TbdDaD5gkh68kN_5qDUd1hJ_JhhWTb/view?usp=sharing) and [M_gtav_at_warmup_t4.pth](https://drive.google.com/file/d/1MpgMGQVPM9hdpgeFoBXTg1Ltc5pJHmsS/view?usp=sharing)
-- SYNTHIA to Cityscapes: coming soon
 
 (Optional) Of course, if you have plenty of time, you can skip this step and start training from scratch. We also provide these scripts.
 
@@ -137,14 +136,14 @@ Please cite this paper in your publications if it helps your research:
 @article{mei2020instance,
   title={Instance Adaptive Self-Training for Unsupervised Domain Adaptation},
   author={Mei, Ke and Zhu, Chuang and Zou, Jiaqi and Zhang, Shanghang},
-  journal={arXiv preprint arXiv:2008.12197},
+  booktitle={European Conference on Computer Vision (ECCV)},
   year={2020}
 }
 ```
 
 ## Author
 Ke Mei
-- email: raykoo@bupt.edu.cn
+- email: raykoo@bupt.edu.cn；czhu@bupt.edu.cn
 - wechat: meikekekeke
 
 If you have any questions, you can contact me directly.
